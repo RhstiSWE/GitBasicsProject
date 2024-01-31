@@ -1,0 +1,8 @@
+#ignore the whole config folder.
+config/
+
+#ignore the settings.json
+settings.json
+
+#ignore all .log
+*.log
