@@ -1,5 +1,5 @@
- #Welcome to my Git Basics Project.
+ # Welcome to my Git Basics Project.
  
- ##Intro
+ ## Intro
 
  This is a git repo for Git Basics.
